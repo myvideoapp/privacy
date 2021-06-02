@@ -1,4 +1,4 @@
-Welcome to GitHub Pages
+私人视频-隐私协议 
 You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files.
@@ -10,21 +10,7 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-
-
-
-
-
-
-私人视频-隐私协议     
+### Header 3   
 
 本应用尊重并保护所有使用服务用户的个人隐私权。为了给您提供更准确、更有个性化的服务，本应用会按照本隐私权政策的规定使用和披露您的个人信息。但本应用将以高度的勤勉、审慎义务对待这些信息。除本隐私权政策另有规定外，在未征得您事先许可的情况下，本应用不会将这些信息对外披露或向第三方提供。本应用会不时更新本隐私权政策。 您在同意本应用服务使用协议之时，即视为您已经同意本隐私权政策全部内容。本隐私权政策属于本应用服务使用协议不可分割的一部分。
 用户协议
